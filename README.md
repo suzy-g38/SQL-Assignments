@@ -1,1 +1,1 @@
-# Data-Base-Management-System-assignments
+#SQL-assignments
